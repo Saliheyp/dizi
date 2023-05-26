@@ -1,0 +1,15 @@
+D:\Patika\dizi\bin\Debug\net7.0\dizi.exe
+D:\Patika\dizi\bin\Debug\net7.0\dizi.deps.json
+D:\Patika\dizi\bin\Debug\net7.0\dizi.runtimeconfig.json
+D:\Patika\dizi\bin\Debug\net7.0\dizi.dll
+D:\Patika\dizi\bin\Debug\net7.0\dizi.pdb
+D:\Patika\dizi\obj\Debug\net7.0\dizi.csproj.AssemblyReference.cache
+D:\Patika\dizi\obj\Debug\net7.0\dizi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\dizi\obj\Debug\net7.0\dizi.AssemblyInfoInputs.cache
+D:\Patika\dizi\obj\Debug\net7.0\dizi.AssemblyInfo.cs
+D:\Patika\dizi\obj\Debug\net7.0\dizi.csproj.CoreCompileInputs.cache
+D:\Patika\dizi\obj\Debug\net7.0\dizi.dll
+D:\Patika\dizi\obj\Debug\net7.0\refint\dizi.dll
+D:\Patika\dizi\obj\Debug\net7.0\dizi.pdb
+D:\Patika\dizi\obj\Debug\net7.0\dizi.genruntimeconfig.cache
+D:\Patika\dizi\obj\Debug\net7.0\ref\dizi.dll
